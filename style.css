@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #f00101;
+    background-color: #3c3c3c;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -24,12 +24,12 @@ body {
     font-size: 16px;
 }
 
-.logo-VALORANT{
+.logo-r6{
     width: 25%;
 }
 
-.valorant{
-    background-image: linear-gradient(#ec1e1ed7,#ff1515c9);
+.r6{
+    background-image: linear-gradient(#3c3c3c,#8c8c8c);
     color:white;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ body {
     padding: 24px 0;
 }
 
-.VALORANT-div-conteudo{
+.r6-div-conteudo{
     width: 35%;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .rodape{
-    background-color: rgb(226, 8, 8);
+    background-color: black;
     text-align: center;
 }
 
